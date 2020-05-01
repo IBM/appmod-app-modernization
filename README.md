@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# appmod-resorts-final
+A completed migration from the original application in https://github.com/IBM/appmod-resorts, merging the original code with the code created by Transformation Advisor
+=======
 # App Modernization using Transformation Advisor and Microclimate
 
 In this code pattern, we will use Transformation Advisor to evaluate an on-premise traditional WebSphere application for deployment on public and/or private cloud environments. We'll use Transformation Advisor's integration with Microclimate to deploy the app in a Liberty container running on IBM Cloud Private. We'll also download the generated migration bundle and use its Helm chart to deploy the containerized app to IBM Cloud Kubernetes Service (public cloud).
@@ -481,3 +485,4 @@ where you have completed the install of the CLIs above.
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
+>>>>>>> twas_app/master

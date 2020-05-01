@@ -4,7 +4,10 @@
 
   <groupId>com.ibm.ta</groupId>
   <artifactId>modresorts</artifactId>
-  <version>1.0</version>
+  <name>modresorts</name>
+
+  
+  <version>1.0.0</version>
   <packaging>war</packaging>
 
   <properties>
@@ -91,8 +94,6 @@
         <configuration>
           <failOnMissingWebXml>false</failOnMissingWebXml>
           <packagingExcludes>pom.xml</packagingExcludes>
-          <warSourceDirectory>WebContent</warSourceDirectory>
-          <outputDirectory>data/examples</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
